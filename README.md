@@ -44,6 +44,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What was your experience?
 - What have you learned/improved?
 - Your wisdom? :)
+********ideas:
+a random movie generator website based on imdb rates
 
 ### Built With
 
